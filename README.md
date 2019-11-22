@@ -15,7 +15,7 @@ So, which plan is preferred?
 
 There's no straight answer for this question. It depends on at least two conditions:
 
-1. How many cars is he going to sell on average?
+1. How many cars is he going to sell on an average day?
 1. The maximum money he can use is only the initial 10 million or the profit that's gained in the business could be added into the fund pool?
 
 In order to answer this question carefully, I draft this tiny model to illustrate that cpp is good for modelling certain problems, like this. And it's very convinient to combine the power of R using Rcpp.
