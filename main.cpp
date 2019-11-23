@@ -5,7 +5,7 @@
 using namespace Rcpp;
 
 const std::map<int, double> loan_cfs1 {
-  {9, 13}
+  {12, 13}
 };
 
 const std::map<int, double> loan_cfs2 {
